@@ -1,0 +1,15 @@
+var PointsOfinterest = {
+"type": "FeatureCollection",
+"name": "PointsOfinterest",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "name": "Amani Picnic Site, Playground and Park" }, "geometry": { "type": "Point", "coordinates": [ 36.819365406102143, -1.242351683595263 ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "Mau Mau Caves" }, "geometry": { "type": "Point", "coordinates": [ 36.829089419435569, -1.236499072637556 ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "Karura Waterfall" }, "geometry": { "type": "Point", "coordinates": [ 36.826516070069907, -1.234429975893511 ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "Karura Chimney" }, "geometry": { "type": "Point", "coordinates": [ 36.841913907285665, -1.24319054935953 ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "Butterfly Pond" }, "geometry": { "type": "Point", "coordinates": [ 36.837284603019462, -1.242245505073303 ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "Karura Forest Gate A" }, "geometry": { "type": "Point", "coordinates": [ 36.817297218339498, -1.247260906821844 ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "Karura Forest Gate C" }, "geometry": { "type": "Point", "coordinates": [ 36.843864770779533, -1.239886228333481 ] } },
+{ "type": "Feature", "properties": { "id": null, "name": "Bicycle Rental" }, "geometry": { "type": "Point", "coordinates": [ 36.818526942393255, -1.240459376066874 ] } }
+]
+};
